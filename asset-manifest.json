@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sindicateCrypto/static/css/main.52ca844a.css",
+    "main.js": "/sindicateCrypto/static/js/main.88fecb8d.js",
+    "static/js/787.aaa8c338.chunk.js": "/sindicateCrypto/static/js/787.aaa8c338.chunk.js",
+    "static/media/dashboard.svg": "/sindicateCrypto/static/media/dashboard.b5868d3ae038b4a3efc324e8d52809f8.svg",
+    "static/media/coins.svg": "/sindicateCrypto/static/media/coins.1e477e1a6f63a9eb21c52260536698c6.svg",
+    "static/media/money_exchange.svg": "/sindicateCrypto/static/media/money_exchange.586530b9c3523cb874c0e00cc556cf3f.svg",
+    "static/media/calculator.svg": "/sindicateCrypto/static/media/calculator.a298f8e52e42d942c70ec4607d2d126d.svg",
+    "static/media/coins_hand_2.svg": "/sindicateCrypto/static/media/coins_hand_2.0e099de172d308bafe5ce2df5f407a5c.svg",
+    "static/media/treasure.svg": "/sindicateCrypto/static/media/treasure.a153f23fe8c98223559e7906a2e0a02e.svg",
+    "static/media/gift.svg": "/sindicateCrypto/static/media/gift.5f1f660c9f62a1536fa3405c64b43e30.svg",
+    "static/media/arrow-swap.svg": "/sindicateCrypto/static/media/arrow-swap.a9d5a86d0933a40e2670915df8959fae.svg",
+    "index.html": "/sindicateCrypto/index.html",
+    "static/media/wallet.svg": "/sindicateCrypto/static/media/wallet.20512ef68c979c71fd1ce33177914cd0.svg",
+    "static/media/24.svg": "/sindicateCrypto/static/media/24.d1f93c06ba66638777da25b041908c2b.svg",
+    "static/media/search.svg": "/sindicateCrypto/static/media/search.e980cb1327003e54aa9a1af3318d3bc6.svg",
+    "static/media/close_icon.svg": "/sindicateCrypto/static/media/close_icon.13ae5281d7cc6199aa092bece41d2f91.svg",
+    "static/media/briefcase.svg": "/sindicateCrypto/static/media/briefcase.132b5280decd26b56a040fb65185dccf.svg",
+    "static/media/charts.svg": "/sindicateCrypto/static/media/charts.a4647a933710b4c86cf21808342d2a92.svg",
+    "static/media/arrows.svg": "/sindicateCrypto/static/media/arrows.2392a71737f3c8a65b4ffdd31894b1ea.svg",
+    "static/media/diamonds.svg": "/sindicateCrypto/static/media/diamonds.9067221289c2679d71f85009f2eb028f.svg",
+    "static/media/coin.svg": "/sindicateCrypto/static/media/coin.e5e732d1b2ae7c7dc885db2837dcaf60.svg",
+    "static/media/select_arrow.svg": "/sindicateCrypto/static/media/select_arrow.79b3f79c5b4290fb18e937f6c625d915.svg",
+    "static/media/arrow_down.svg": "/sindicateCrypto/static/media/arrow_down.97597afca63245c0cffb8776bc3c4c23.svg",
+    "static/media/arrow_up.svg": "/sindicateCrypto/static/media/arrow_up.3c6fc0838e01a1b064a1d57ae77c2418.svg",
+    "main.52ca844a.css.map": "/sindicateCrypto/static/css/main.52ca844a.css.map",
+    "main.88fecb8d.js.map": "/sindicateCrypto/static/js/main.88fecb8d.js.map",
+    "787.aaa8c338.chunk.js.map": "/sindicateCrypto/static/js/787.aaa8c338.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ca844a.css",
+    "static/js/main.88fecb8d.js"
+  ]
+}
