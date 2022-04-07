@@ -1,0 +1,24 @@
+.main {
+  padding: 0 80px;
+  box-sizing: border-box;
+  font-family: 'Open Sans';
+}
+
+@media screen and (max-width: 1170px) {
+  .content {
+    padding-top: 80px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+    padding: 0 30px;
+  }
+}
+
+@media screen and (max-width: 468px) {
+  .main {
+    padding: 0 15px;
+  }
+}
+
