@@ -13,10 +13,6 @@ const Navbar = (props) => {
   const dispatch = useDispatch();
   const userAddress = useSelector((state) => state.common.userAddress);
 
-  useEffect(() => {
-    console.log(userAddress, "userAddress");
-  }, [userAddress]);
-
   return (
     <div className={classes.main}>
       <img src={logo} alt="logo" className={classes.logo} />

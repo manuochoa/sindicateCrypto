@@ -8,7 +8,7 @@ import gift_icon from "../../../Assets/Icons/gift.svg";
 
 import { useSelector } from "react-redux";
 
-const Balance = (props) => {
+const Balance = () => {
   const { treasuryBalance, treasuryPrevBalance, usdPrice } = useSelector(
     (state) => state.common
   );

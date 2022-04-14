@@ -36,10 +36,6 @@ const App = () => {
     }
   }, [userAddress]);
 
-  useEffect(() => {
-    console.log(store, "store");
-  }, [store]);
-
   return (
     <Router>
       <HttpsRedirect>

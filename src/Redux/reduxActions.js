@@ -40,7 +40,7 @@ export const getContractNumbers = () => {
   return async (dispatch) => {
     try {
       let lastBlock = await provider.getBlockNumber();
-      let dayAgo = lastBlock - 1200;
+      let dayAgo = lastBlock - 14400;
       const overrides = {
         blockTag: dayAgo,
       };
